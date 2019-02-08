@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-apt-get install git
+apt-get update
+apt-get -y install git
 
 git clone resource-gist updated-gist
 
