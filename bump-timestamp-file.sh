@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 git clone resource-gist updated-gist
 
 cd updated-gist
